@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* header navigation bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,6 +44,7 @@ body {
     
 }
 
+/* navigation link color and decoration */
 a {
     
     color: #ffffff;
@@ -52,7 +54,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /* Large image background under header of the group of people*/
 .hero {
     height: 800px;
     width: 100%;
